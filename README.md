@@ -14,7 +14,7 @@ A full-stack real estate web application built with React.js and Vite on the fro
 
 ### Backend
 - Node.js
-- Express.js *(if used in the project)*
+- Express.js 
 
 ### Development Tools
 - npm
